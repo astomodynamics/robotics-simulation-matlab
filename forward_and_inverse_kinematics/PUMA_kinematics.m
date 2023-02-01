@@ -192,24 +192,6 @@ for k = 1:length(k_span)
 end
 
 
-%% Problem 2
- a = [1, 0, 2]';
- b = [-1, 0, 2]';
- c = [1, 2, 0]'; 
- d = [-1, 2, 0]';
- e = [1, 0, 0]'; 
- f = [-1, 0, 0]';
-
-%% Problem 2 a)
-
-
-
-%% Problem 2 b)
-
-
-
-%% Problem 2 c)
-
 
 
 
